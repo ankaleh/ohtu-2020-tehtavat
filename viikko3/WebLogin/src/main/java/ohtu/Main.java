@@ -7,7 +7,7 @@ import ohtu.data_access.FileUserDao;
 import ohtu.data_access.UserDao;
 import ohtu.util.CreationStatus;
 import spark.ModelAndView;
-import static spark.Spark.*;
+import static spark.Spark.*; 
 import spark.template.velocity.VelocityTemplateEngine;
 
 public class Main {
