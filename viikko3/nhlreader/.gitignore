@@ -5,3 +5,9 @@
 build
 
 .vscode
+
+bin
+.settings/
+.classpath
+.gitattributes
+.project
