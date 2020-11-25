@@ -9,7 +9,6 @@ Valkotaulu jaetaan kolmeen osaan tekniikan nimen mukaisesti: Glad, Sad, Mad. Osa
 Suraavaksi päällekkäisiä asioita käsittelevät laput yhdistetään ja keskusteluun nostettavista aiheista äänestetään. Lopuksi käydään keskustelu niistä aiheista, jotka saavat äänestyksessä eniten ääniä. Tilaisuus kestää korkeintaan tunnin. 
 
 Lähteet:
-
 Glad, Sad, Mad. (2015). Agile Retrospective Resource Wiki. Haettu 24.11.2020 osoitteesta 
 http://retrospectivewiki.org/index.php?title=Glad,_Sad,_Mad.
 
